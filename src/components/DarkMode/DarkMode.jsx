@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import sun from "./sun.svg";
-import moon from "./moon.svg";
+import sun from "../../../public/sun.svg";
+import moon from "../../../public/sun.svg";
 
 export default function DarkModeToggle() {
     const [darkMode, setDarkMode] = useState(
