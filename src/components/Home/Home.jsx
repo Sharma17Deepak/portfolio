@@ -12,7 +12,7 @@ const Home = () => {
         <p className="text-[10px] sm:text-xs md:text-lg mt-8 md:max-w-max tracking-tight leading-tight max-w-xs sm:max-w-sm">
           A passionate Frontend Developer dedicated to create beautiful, responsive, and user-friendly web experiences. I enjoy bringing creative designs to life and ensuring they work seamlessly across devices. My goal is to build interactive, accessible, and performance-driven websites that leave a great impression on users.
         </p>
-        <a href="https://drive.google.com/file/d/1yLEZWwH0jjUkqfZhCPplaVW7HcAs2WCP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1TbBccAGmRBVUGMRlE9kh7n5bx_2dOUcq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
           <button className="mt-3 md:mt-10 text-white py-4 px-6 text-xl md:text-3xl md:py-4 md:px-6 hover:opacity-85 duration-300 hover:scale-110 font-semibold rounded-3xl bg-buttoncolor dark:bg-[#465697]">
             Hire Me
           </button>
