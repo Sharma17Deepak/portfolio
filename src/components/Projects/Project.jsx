@@ -4,12 +4,22 @@ import ttt from "../../assets/ttt.png";
 import rps from "../../assets/rps.png";
 import pastry from "../../assets/pastry.png";
 import cricket from "../../assets/cricket.png";
+import financely from "../../assets/Financely-SS.png";
 
 const Projects = () => {
   return (
     <div id="Projects" className="p-10 md:p-24 text-white ">
-      <h1 className="text-2xl md:text-4xl text-fontcolor dark:text-white font-bold flex flex-wrap items-center justify-center text-center">Projects</h1>
+      <h1 className="text-2xl md:text-4xl text-fontcolor dark:text-white font-bold flex flex-wrap items-center justify-center text-center">
+        Projects
+      </h1>
       <div className="py-12 px-8 flex flex-wrap gap-10 items-center justify-center">
+        <ProjectCard
+          image={financely}
+          title="Financely - Finance Tracker"
+          main="A finance tracker built using React and Firebase, featuring secure authentication, real-time Firestore updates, interactive analytics charts, and data export/download capabilities for streamlined financial tracking."
+          demo="https://finance-tracker-jj45ew50e-sharma17deepaks-projects.vercel.app/"
+          sc="https://github.com/Sharma17Deepak/Finance-Tracker"
+        />
         <ProjectCard
           image={cricket}
           title="CricXpert"
