@@ -37,14 +37,14 @@ const Projects = () => {
         <ProjectCard
           image={ttt}
           title="Tic tac toe"
-          main="Developed a responsive Tic Tac Toe game using HTML5, CSS3, and JavaScript with interactive gameplay, real-time win/draw detection, and reset button."
+          main="Developed a responsive Tic Tac Toe game using HTML5, CSS3, and JavaScript with real-time win/draw detection, and reset button."
           demo="https://sharma17deepak.github.io/Tic-Tac-Toe-/"
           sc="https://github.com/Sharma17Deepak/Tic-Tac-Toe-"
         />
         <ProjectCard
           image={rps}
           title="Rock Paper Scissor"
-          main="Developed a responsive Rock Paper Scissor game using HTML, CSS, and JavaScript with interactive gameplay, real-time score tracking, and an intuitive UI/UX design."
+          main="Developed a responsive Rock Paper Scissor game using HTML, CSS3, and JavaScript with interactive gameplay, real-time score tracking, saving score in localstorage & Start again feature."
           demo="https://sharma17deepak.github.io/Rock-Paper-Scissor/"
           sc="https://github.com/Sharma17Deepak/Rock-Paper-Scissor"
         />
