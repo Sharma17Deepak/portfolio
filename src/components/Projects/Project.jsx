@@ -30,7 +30,7 @@ const Projects = () => {
         <ProjectCard
           image={pastry}
           title="Pastry World"
-          main="Pastry world is a responsive bakery web app using HTML, CSS, and JavaScript with dynamic landing page, category-based menu filtering, and table reservation form for seamless user interaction."
+          main="Pastry world website is a responsive landing page made for bakery built using HTML, CSS, and JavaScript with features like category-based menu filtering, and table reservation form for seamless user interaction."
           demo="https://pastry-world.vercel.app/"
           sc="https://github.com/Sharma17Deepak/Pastry-World"
         />
