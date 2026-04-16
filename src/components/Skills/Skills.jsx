@@ -13,7 +13,7 @@ import {
 import { SiMongodb, SiExpress, SiFirebase } from "react-icons/si";
 const Skills = () => {
   return (
-    <div id="Skills" className="p-10 md:p-24">
+    <div id="Skills" className="p-10 md:p-20">
       <h1 className="text-2xl md:text-4xl text-neutral-900 dark:text-white font-bold flex flex-wrap items-center justify-center text-center">
         Skills
       </h1>

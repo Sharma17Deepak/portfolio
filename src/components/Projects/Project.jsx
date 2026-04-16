@@ -8,8 +8,8 @@ import financely from "../../assets/Financely-SS.png";
 
 const Projects = () => {
   return (
-    <div id="Projects" className="p-10 md:p-24 text-white ">
-      <h1 className="text-2xl md:text-4xl text-fontcolor dark:text-white font-bold flex flex-wrap items-center justify-center text-center">
+    <div id="Projects" className="p-10 md:p-16 text-white ">
+      <h1 className="text-2xl md:text-4xl text-fontcolor dark:text-white font-bold flex flex-wrap items-center justify-center text-center ">
         Projects
       </h1>
       <div className="py-12 px-8 flex flex-wrap gap-10 items-center justify-center">
